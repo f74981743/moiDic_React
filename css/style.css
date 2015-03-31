@@ -1,0 +1,40 @@
+#content {
+	margin: 0 auto;
+	padding: 5px;
+	width: 960px;
+	height: 1024px;
+	
+}
+
+.type {
+	color: white;
+	background-color: #6b0000;
+	border-radius: 4px;
+	padding: 5px;
+	font-size: 26px;
+	width: 25px;
+	height: 25px;
+	line-height: 1;
+}
+
+.word {
+	width: 150px;
+	height: 80px;
+	
+	display: inline-block;
+}
+
+.title {
+	font-size: 38px;
+	display: inline-block;
+}
+
+.bopomofo {
+	display: inline-block;
+}
+
+.rns {
+	width: 150px;
+	height: 80px;
+	display: inline-block;
+}
